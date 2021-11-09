@@ -1,0 +1,15 @@
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.csprojAssemblyReference.cache
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.AssemblyInfoInputs.cache
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.AssemblyInfo.cs
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.csproj.CoreCompileInputs.cache
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/BuildYourOwnUniverse.deps.json
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/BuildYourOwnUniverse.runtimeconfig.json
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/BuildYourOwnUniverse.runtimeconfig.dev.json
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/BuildYourOwnUniverse.dll
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/ref/BuildYourOwnUniverse.dll
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/bin/Debug/net5.0/BuildYourOwnUniverse.pdb
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.dll
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/ref/BuildYourOwnUniverse.dll
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.pdb
+/Users/kennethlapid/DNC100/dnc100-build-your-own-universe/obj/Debug/net5.0/BuildYourOwnUniverse.genruntimeconfig.cache
